@@ -1,0 +1,8 @@
+#TodoApp{
+    margin: auto;
+    background-color: #383838;
+    box-shadow: 0 0 10px 5px #333;
+    width: 600px;
+    min-height: 600px;
+}
+#TodoApp h2{font-size: 2.5em;font-weight: normal;}
